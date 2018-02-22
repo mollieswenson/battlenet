@@ -1,0 +1,7 @@
+site_name: Battle.net Writing Test
+theme: cinder
+
+pages:
+    - 'Welcome!': 'index.md'
+    - 'Core Values': 'core-values.md'
+    - 'Hangman Methods': 'hangman-methods.md'
