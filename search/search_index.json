@@ -1,0 +1,114 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Battle.net Writing Test\n\n\nHi! Thanks for reviewing my work.\n\n\n\n\n\n\nQuestion 1: \nBlizzard's core values applied to technical writing\n\n\n\n\n\n\nQuestion 2B: \nMethods and parameters documentation for Hangman", 
+            "title": "Welcome!"
+        }, 
+        {
+            "location": "/#battlenet-writing-test", 
+            "text": "Hi! Thanks for reviewing my work.    Question 1:  Blizzard's core values applied to technical writing    Question 2B:  Methods and parameters documentation for Hangman", 
+            "title": "Battle.net Writing Test"
+        }, 
+        {
+            "location": "/core-values/", 
+            "text": "Core Values\n\n\nHere's how technical writers can apply Blizzard's eight code values.\n\n\nGameplay First\n\n\nThis core value aims to deliver an incredible gaming experience to as many people as possible. Technical writers can contribute to this by producing documentation that supports others in delivering, maintaining, and consuming Blizzard games. Great documentation helps developers deliver quality games faster, helps server administrators maintain the services that support those games, and helps end users download, install, and run games quickly and without frustration.    \n\n\nCommit to Quality\n\n\nThis core value highlights the importance of carefully considering the task at hand, focusing on details, and leveraging feedback to produce an exceptional product. Technical writers can apply these same techniques by approaching each stage of documentation project, from inception through delivery, with careful planning. Each project should include detailed analysis, review, feedback, and revision at stages throughout the development process.\n\n\nPlay Nice; Play Fair\n\n\nThis core value insists on integrity and respect. Technical writers can put this into practice by being patient and gracious with those they interact with during the development process, and by approaching their audience with respect. It also means having the integrity to take ownership of mistakes, and taking the initiative to keep projects productive.\n\n\nEmbrace your Inner Geek\n\n\nThis core value serves as a reminder to be passionate about the things that make life awesome, share those passions with others, and take the time to see what others are excited to share with you. Technical writers can apply this by keeping up with the latest techniques and tools in technical documentation, and by maintaining an open and tolerant dialogue with colleagues.\n\n\nEvery Voice Matters\n\n\nThis core value recognizes that anyone can have a great idea, and encourages everyone to speak up and contribute to the conversation. Technical writers have a great opportunity to grow from feedback and criticism, and should always encourage others to give their honest opinion about documentation processes and results. The best way to create exceptionally useful and engaging documentation is to gather and carefully consider feedback and criticism.\n\n\nThink Globally\n\n\nThis core value helps to ensure the global community feels welcome, and endorses an inclusive culture. Technical writers can apply this by writing their documentation with localization in mind. Clarity, consistency, and consideration for cultural differences makes for documentation that helps a global audience feel included and important.\n\n\nLead Responsibly\n\n\nThis core value aims to lead responsibly by making ethical decisions, always keeping players in mind, and setting a strong example within the company and within the industry. Technical writers can lead responsibly by setting a strong example and by mentoring others who participate in documentation. Technical writers should always consider their audience's knowledge level, and strive to address their audience with respect and honesty.\n\n\nLearn and Grow\n\n\nThis core value highlights the importance of continued growth; professionally, personally, as a company, and as an industry. Technical writers can practice this by exploring new tools, techniques, and technologies, and by being open to new ways of developing and delivering documentation. Additionally, technical writers can share what they learn with others inside and outside their field to promote a culture of sharing and learning.", 
+            "title": "Core Values"
+        }, 
+        {
+            "location": "/core-values/#core-values", 
+            "text": "Here's how technical writers can apply Blizzard's eight code values.", 
+            "title": "Core Values"
+        }, 
+        {
+            "location": "/core-values/#gameplay-first", 
+            "text": "This core value aims to deliver an incredible gaming experience to as many people as possible. Technical writers can contribute to this by producing documentation that supports others in delivering, maintaining, and consuming Blizzard games. Great documentation helps developers deliver quality games faster, helps server administrators maintain the services that support those games, and helps end users download, install, and run games quickly and without frustration.", 
+            "title": "Gameplay First"
+        }, 
+        {
+            "location": "/core-values/#commit-to-quality", 
+            "text": "This core value highlights the importance of carefully considering the task at hand, focusing on details, and leveraging feedback to produce an exceptional product. Technical writers can apply these same techniques by approaching each stage of documentation project, from inception through delivery, with careful planning. Each project should include detailed analysis, review, feedback, and revision at stages throughout the development process.", 
+            "title": "Commit to Quality"
+        }, 
+        {
+            "location": "/core-values/#play-nice-play-fair", 
+            "text": "This core value insists on integrity and respect. Technical writers can put this into practice by being patient and gracious with those they interact with during the development process, and by approaching their audience with respect. It also means having the integrity to take ownership of mistakes, and taking the initiative to keep projects productive.", 
+            "title": "Play Nice; Play Fair"
+        }, 
+        {
+            "location": "/core-values/#embrace-your-inner-geek", 
+            "text": "This core value serves as a reminder to be passionate about the things that make life awesome, share those passions with others, and take the time to see what others are excited to share with you. Technical writers can apply this by keeping up with the latest techniques and tools in technical documentation, and by maintaining an open and tolerant dialogue with colleagues.", 
+            "title": "Embrace your Inner Geek"
+        }, 
+        {
+            "location": "/core-values/#every-voice-matters", 
+            "text": "This core value recognizes that anyone can have a great idea, and encourages everyone to speak up and contribute to the conversation. Technical writers have a great opportunity to grow from feedback and criticism, and should always encourage others to give their honest opinion about documentation processes and results. The best way to create exceptionally useful and engaging documentation is to gather and carefully consider feedback and criticism.", 
+            "title": "Every Voice Matters"
+        }, 
+        {
+            "location": "/core-values/#think-globally", 
+            "text": "This core value helps to ensure the global community feels welcome, and endorses an inclusive culture. Technical writers can apply this by writing their documentation with localization in mind. Clarity, consistency, and consideration for cultural differences makes for documentation that helps a global audience feel included and important.", 
+            "title": "Think Globally"
+        }, 
+        {
+            "location": "/core-values/#lead-responsibly", 
+            "text": "This core value aims to lead responsibly by making ethical decisions, always keeping players in mind, and setting a strong example within the company and within the industry. Technical writers can lead responsibly by setting a strong example and by mentoring others who participate in documentation. Technical writers should always consider their audience's knowledge level, and strive to address their audience with respect and honesty.", 
+            "title": "Lead Responsibly"
+        }, 
+        {
+            "location": "/core-values/#learn-and-grow", 
+            "text": "This core value highlights the importance of continued growth; professionally, personally, as a company, and as an industry. Technical writers can practice this by exploring new tools, techniques, and technologies, and by being open to new ways of developing and delivering documentation. Additionally, technical writers can share what they learn with others inside and outside their field to promote a culture of sharing and learning.", 
+            "title": "Learn and Grow"
+        }, 
+        {
+            "location": "/hangman-methods/", 
+            "text": "Logic Flow\n\n\nThis diagram illustrates the logic flow of the methods used in the Hangman game.\n\n\n\n\n\n\nMethods\n\n\nThe methods used in the Hangman game are detailed below.\n\n\ndrawLetter(letter, spaces)\n\n\nThis method draws the letter in the corresponding space(s).\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nletter\n\n\nString\n\n\nThe user's guess\n\n\n\n\n\n\nspaces\n\n\nMap Object\n\n\nMaps the letters in the word to corresponding spaces using a set of key: value pairs, where the key is an integer that indicates the space number and the value is an array that contains the letter for that space and a Boolean that indicates whether the letter has been guessed by the user\n\n\n\n\n\n\n\n\nCode Sample\n\n\n\nThe below demonstrates an instance of the \nspaces\n object.\n\n\nvar spaces = {\n  1: [L, false],\n  2: [U, false],\n  3: [C, false],\n  4: [K, false]\n}\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nBoolean\n\n\nReturns true if the word is complete or false if the word is not complete\n\n\n\n\n\n\n\n\ndrawMan(turns)\n\n\nThis method draws the next part of the man and subtracts a turn.\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nturns\n\n\nInteger\n\n\nThe number of remaining guesses\n\n\n\n\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nBoolean\n\n\nReturns true if there are zero remaining guesses or false if there are more than zero remaining guesses\n\n\n\n\n\n\n\n\ndrawSpaces(count)\n\n\nThis method draws a space for each letter in the word and maps the location of each letter to a space.\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\ncount\n\n\nInteger\n\n\nThe number of letters in the word\n\n\n\n\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nMap Object\n\n\nMaps the letters in the word to corresponding spaces using a set of key: value pairs, where the key is an integer that indicates the space number and the value is an array that contains the letter for that space and a \nfalse\n Boolean that indicates the user has not guessed the letter\n\n\n\n\n\n\n\n\nCode Sample\n\n\n\nThe below demonstrates an instance of the map object returned by the method.\n\n\nvar spaces = {\n  1: [L, false],\n  2: [U, false],\n  3: [C, false],\n  4: [K, false]\n}\n\n\n\n\nendGame(turns)\n\n\nThis method ends the game and determines if the user won or lost the game.\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nturns\n\n\nInteger\n\n\nThe number of remaining guesses\n\n\n\n\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nBoolean\n\n\nReturns true if the user won the game or false if the user lost the game\n\n\n\n\n\n\n\n\ngetWord(bank)\n\n\nThis method selects a word from the word bank and then counts the letters in the word. The word bank is stored in a separate file.\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nbank\n\n\nArray\n\n\nAn array of strings, where each string is a word\n\n\n\n\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nString\n\n\nThe word the player will guess\n\n\n\n\n\n\nInteger\n\n\nThe number of letters in the word\n\n\n\n\n\n\n\n\nprocessGuess(letter, spaces)\n\n\nThis method is called when the user makes a guess. It determines if the user's guess is correct.\n\n\nParameters\n\n\n\n\n\n\n\n\n\nParameter\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nletter\n\n\nString\n\n\nThe letter the user guessed. Must be a single character from the alphabet\n\n\n\n\n\n\nspaces\n\n\nMap Object\n\n\nMaps the letters in the word to corresponding spaces using a set of key: value pairs, where the key is an integer that indicates the space number and the value is an array that contains the letter for that space and a Boolean that indicates whether the letter has been guessed by the user\n\n\n\n\n\n\n\n\nCode Sample\n\n\n\nThe below demonstrates an instance of the \nspaces\n object.\n\n\nvar spaces = {\n  1: [L, false],\n  2: [U, false],\n  3: [C, false],\n  4: [K, false]\n}\n\n\n\n\nReturns\n\n\n\n\n\n\n\n\n\nType\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nBoolean\n\n\nReturns true if the letter was in the word\n\n\n\n\n\n\n\n\nstartGame()\n\n\nThis method starts a new Hangman game.\n\n\nParameters\n\n\n\nNone\n\n\nReturns\n\n\n\nNone", 
+            "title": "Hangman Methods"
+        }, 
+        {
+            "location": "/hangman-methods/#logic-flow", 
+            "text": "This diagram illustrates the logic flow of the methods used in the Hangman game.", 
+            "title": "Logic Flow"
+        }, 
+        {
+            "location": "/hangman-methods/#methods", 
+            "text": "The methods used in the Hangman game are detailed below.", 
+            "title": "Methods"
+        }, 
+        {
+            "location": "/hangman-methods/#drawletterletter-spaces", 
+            "text": "This method draws the letter in the corresponding space(s).", 
+            "title": "drawLetter(letter, spaces)"
+        }, 
+        {
+            "location": "/hangman-methods/#drawmanturns", 
+            "text": "This method draws the next part of the man and subtracts a turn.", 
+            "title": "drawMan(turns)"
+        }, 
+        {
+            "location": "/hangman-methods/#drawspacescount", 
+            "text": "This method draws a space for each letter in the word and maps the location of each letter to a space.", 
+            "title": "drawSpaces(count)"
+        }, 
+        {
+            "location": "/hangman-methods/#endgameturns", 
+            "text": "This method ends the game and determines if the user won or lost the game.", 
+            "title": "endGame(turns)"
+        }, 
+        {
+            "location": "/hangman-methods/#getwordbank", 
+            "text": "This method selects a word from the word bank and then counts the letters in the word. The word bank is stored in a separate file.", 
+            "title": "getWord(bank)"
+        }, 
+        {
+            "location": "/hangman-methods/#processguessletter-spaces", 
+            "text": "This method is called when the user makes a guess. It determines if the user's guess is correct.", 
+            "title": "processGuess(letter, spaces)"
+        }, 
+        {
+            "location": "/hangman-methods/#startgame", 
+            "text": "This method starts a new Hangman game.", 
+            "title": "startGame()"
+        }
+    ]
+}
