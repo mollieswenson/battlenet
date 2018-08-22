@@ -5,3 +5,4 @@ pages:
     - 'Welcome!': 'index.md'
     - 'Core Values': 'core-values.md'
     - 'Hangman Methods': 'hangman-methods.md'
+    - 'Test': 'test.md'
